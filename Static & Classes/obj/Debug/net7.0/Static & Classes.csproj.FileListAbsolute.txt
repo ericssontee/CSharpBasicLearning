@@ -1,0 +1,15 @@
+F:\Software Programming\c#\Static & Classes\bin\Debug\net7.0\Static & Classes.exe
+F:\Software Programming\c#\Static & Classes\bin\Debug\net7.0\Static & Classes.deps.json
+F:\Software Programming\c#\Static & Classes\bin\Debug\net7.0\Static & Classes.runtimeconfig.json
+F:\Software Programming\c#\Static & Classes\bin\Debug\net7.0\Static & Classes.dll
+F:\Software Programming\c#\Static & Classes\bin\Debug\net7.0\Static & Classes.pdb
+F:\Software Programming\c#\Static & Classes\obj\Debug\net7.0\Static & Classes.csproj.AssemblyReference.cache
+F:\Software Programming\c#\Static & Classes\obj\Debug\net7.0\Static & Classes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Programming\c#\Static & Classes\obj\Debug\net7.0\Static & Classes.AssemblyInfoInputs.cache
+F:\Software Programming\c#\Static & Classes\obj\Debug\net7.0\Static & Classes.AssemblyInfo.cs
+F:\Software Programming\c#\Static & Classes\obj\Debug\net7.0\Static & Classes.csproj.CoreCompileInputs.cache
+F:\Software Programming\c#\Static & Classes\obj\Debug\net7.0\Static & Classes.dll
+F:\Software Programming\c#\Static & Classes\obj\Debug\net7.0\refint\Static & Classes.dll
+F:\Software Programming\c#\Static & Classes\obj\Debug\net7.0\Static & Classes.pdb
+F:\Software Programming\c#\Static & Classes\obj\Debug\net7.0\Static & Classes.genruntimeconfig.cache
+F:\Software Programming\c#\Static & Classes\obj\Debug\net7.0\ref\Static & Classes.dll

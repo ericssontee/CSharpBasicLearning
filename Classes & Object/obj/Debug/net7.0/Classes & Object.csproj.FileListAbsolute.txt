@@ -1,0 +1,15 @@
+F:\Software Programming\c#\Classes & Object\bin\Debug\net7.0\Classes & Object.exe
+F:\Software Programming\c#\Classes & Object\bin\Debug\net7.0\Classes & Object.deps.json
+F:\Software Programming\c#\Classes & Object\bin\Debug\net7.0\Classes & Object.runtimeconfig.json
+F:\Software Programming\c#\Classes & Object\bin\Debug\net7.0\Classes & Object.dll
+F:\Software Programming\c#\Classes & Object\bin\Debug\net7.0\Classes & Object.pdb
+F:\Software Programming\c#\Classes & Object\obj\Debug\net7.0\Classes & Object.csproj.AssemblyReference.cache
+F:\Software Programming\c#\Classes & Object\obj\Debug\net7.0\Classes & Object.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Programming\c#\Classes & Object\obj\Debug\net7.0\Classes & Object.AssemblyInfoInputs.cache
+F:\Software Programming\c#\Classes & Object\obj\Debug\net7.0\Classes & Object.AssemblyInfo.cs
+F:\Software Programming\c#\Classes & Object\obj\Debug\net7.0\Classes & Object.csproj.CoreCompileInputs.cache
+F:\Software Programming\c#\Classes & Object\obj\Debug\net7.0\Classes & Object.dll
+F:\Software Programming\c#\Classes & Object\obj\Debug\net7.0\refint\Classes & Object.dll
+F:\Software Programming\c#\Classes & Object\obj\Debug\net7.0\Classes & Object.pdb
+F:\Software Programming\c#\Classes & Object\obj\Debug\net7.0\Classes & Object.genruntimeconfig.cache
+F:\Software Programming\c#\Classes & Object\obj\Debug\net7.0\ref\Classes & Object.dll
