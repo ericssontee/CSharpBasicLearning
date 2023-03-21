@@ -1,0 +1,15 @@
+F:\Software Programming\c#\basic_calculator\bin\Debug\net7.0\basic_calculator.exe
+F:\Software Programming\c#\basic_calculator\bin\Debug\net7.0\basic_calculator.deps.json
+F:\Software Programming\c#\basic_calculator\bin\Debug\net7.0\basic_calculator.runtimeconfig.json
+F:\Software Programming\c#\basic_calculator\bin\Debug\net7.0\basic_calculator.dll
+F:\Software Programming\c#\basic_calculator\bin\Debug\net7.0\basic_calculator.pdb
+F:\Software Programming\c#\basic_calculator\obj\Debug\net7.0\basic_calculator.csproj.AssemblyReference.cache
+F:\Software Programming\c#\basic_calculator\obj\Debug\net7.0\basic_calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Programming\c#\basic_calculator\obj\Debug\net7.0\basic_calculator.AssemblyInfoInputs.cache
+F:\Software Programming\c#\basic_calculator\obj\Debug\net7.0\basic_calculator.AssemblyInfo.cs
+F:\Software Programming\c#\basic_calculator\obj\Debug\net7.0\basic_calculator.csproj.CoreCompileInputs.cache
+F:\Software Programming\c#\basic_calculator\obj\Debug\net7.0\basic_calculator.dll
+F:\Software Programming\c#\basic_calculator\obj\Debug\net7.0\refint\basic_calculator.dll
+F:\Software Programming\c#\basic_calculator\obj\Debug\net7.0\basic_calculator.pdb
+F:\Software Programming\c#\basic_calculator\obj\Debug\net7.0\basic_calculator.genruntimeconfig.cache
+F:\Software Programming\c#\basic_calculator\obj\Debug\net7.0\ref\basic_calculator.dll
